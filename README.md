@@ -7,4 +7,6 @@ We pretty much created some things for our community on GitHub such as our own w
 
 Say hello to us by joining our Discord server by clicking [here](https://discord.gg/5Tdke6dsaP), we can't wait to see you there! 👋
 
+![The MediaPlay Discord GitHub metrics](https://metrics.lecoq.io/MediaPlay-Discord)
+
 <!--Nevermind, this won't show up in front of the page anyway.-->

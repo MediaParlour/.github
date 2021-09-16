@@ -1,4 +1,4 @@
-![https://mediaplay-discord.github.io/assets/MPD-Logo-with-Text.png]
+![MediaPlay Discord](https://mediaplay-discord.github.io/assets/MPD-Logo-with-Text.png)
 
 👥 MediaPlay is a community that connects people together. We have a great community from all kinds of backgrounds on different platforms.
 

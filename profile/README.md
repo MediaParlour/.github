@@ -1,7 +1,12 @@
 ![MediaPlay Discord](https://mediaplay-discord.github.io/assets/MPD-Logo-with-Text.png)
 
-👥 MediaPlay is a community that connects people together. We have a great community from all kinds of backgrounds on different platforms.
+---
 
-🛠️ We created some things for our own community on GitHub such as [our website](https://mediaplay-discord.github.io/)!
+## 👥
+#### MediaPlay is a community that connects people together. We have a great community from all kinds of backgrounds on different platforms.
 
-👋 Say hello to us by joining [our Discord server](https://discord.gg/5Tdke6dsaP) and [our Matrix space](https://matrix.to/#/#mediaplay-matrix:matrix.org) as well. We can't wait to see you there!
+## 🛠️
+#### Here you can see all the things we've created on GitHub such as [our website](https://mediaplay-discord.github.io/)!
+
+## 👋
+#### Say hello to us by joining [our Discord server](https://discord.gg/5Tdke6dsaP) and [our Matrix space](https://matrix.to/#/#mediaplay-matrix:matrix.org) as well. We can't wait to see you there!

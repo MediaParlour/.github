@@ -2,7 +2,7 @@
   <img src="https://mediaplay-discord.github.io/assets/MPD-Logo-with-Text.png">
 </p>
 
-### 👥 MediaPlay is a community that connects people together. We have a great community from all kinds of backgrounds on different platforms.
+### 👥 MediaPlay Discord is a community that connects people together. We have a great community from all kinds of backgrounds on different platforms.
 
 ### 🛠️ Here you can see all the things we've created on GitHub such as [our website](https://mediaplay-discord.github.io/)!
 

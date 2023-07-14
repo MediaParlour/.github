@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://mediaplay-discord.github.io/assets/MPD-Logo-with-Text.png">
-</p>
+# Hello!
 
-### 👥 MediaPlay Discord is a community that connects people together. We have a great community from all kinds of backgrounds on different platforms.
+### 👥 Welcome to MediaParlour! We have a great community from all kinds of backgrounds on different platforms, mainly focusing on the creative stuff.
 
 ### 🛠️ Here you can see all the things we've created on GitHub such as [our website](https://mediaplay-discord.github.io/)!
 
